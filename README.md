@@ -7,10 +7,10 @@
 
 ## Projects
 ### Full-Stack Probability Calculator Website
-[Website Link] (https://dlf-5e-dpr-calculator.onrender.com/)
+[Website Link](https://dlf-5e-dpr-calculator.onrender.com/)
 
 ### JavaScript Action Platformer Game
-[GitHub Link] (https://github.com/paullee100/TCSS491Game) | [Direct Link] (https://paullee100.github.io/TCSS491Game/index.html)
+[GitHub Link](https://github.com/paullee100/TCSS491Game) | [Direct Link](https://paullee100.github.io/TCSS491Game/index.html)
 
 ### Java GUI Dungeon Game
-[GitHub Link] (https://github.com/alexzrosario/TCSS360_teamproject)
+[GitHub Link](https://github.com/alexzrosario/TCSS360_teamproject)
