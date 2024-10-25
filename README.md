@@ -3,7 +3,7 @@
 #### Technical Skills: Java, JavaScript, React, SQL, Python
 
 ## Education
-- Computer Science and Systems, B.S | University of Washington Tacoma (_March 2023_)
+- B.S., Computer Science | University of Washington Tacoma (_March 2023_)
 
 ## Projects
 ### Full-Stack Probability Calculator Website
