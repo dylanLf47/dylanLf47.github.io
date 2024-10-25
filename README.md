@@ -12,7 +12,7 @@
 ### JavaScript Action Platformer Game
 [GitHub Link](https://github.com/paullee100/TCSS491Game) | [Direct Link](https://paullee100.github.io/TCSS491Game/index.html)
 
-![JavaScript Platformer](/assets/js_platformer.png)
+![JavaScript Platformer](/assets/js_platform.png)
 
 ### Java GUI Dungeon Game
 [GitHub Link](https://github.com/alexzrosario/TCSS360_teamproject)
